@@ -8,10 +8,14 @@
 
 
 
+![amzn](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/1a9cebf1-3fd5-4168-b072-acc77818aaa1)
+
+
+
 ![hrp](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/fcf43094-865b-47e2-b99e-1d92a277ee72)
 
 
 
-![amzn](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/1a9cebf1-3fd5-4168-b072-acc77818aaa1)
+
 
 
