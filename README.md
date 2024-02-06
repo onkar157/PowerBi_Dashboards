@@ -4,7 +4,7 @@
 ![spm](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/ecaa227e-3047-4ff9-a78e-281cd4697c44)
 
 
-## ● **Diversity Dashboard**
+## **‣ Diversity Dashboard**
 ![divc](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/a82d4b14-cad7-4f6f-910d-3af4c28c0490)
 
 
