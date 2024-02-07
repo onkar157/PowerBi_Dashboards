@@ -1,4 +1,7 @@
 # PowerBi Dashboards
+##  **‣ Superstore Dashboard**
+![sperstore dash](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/e322b976-a64d-4963-a9ff-1fb7f7f7c627)
+
 
 ##  **‣ Space Mission Dashboard**
 ![spm](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/ecaa227e-3047-4ff9-a78e-281cd4697c44)
