@@ -1,6 +1,7 @@
 # PowerBi Dashboards
 ##  **‣ Superstore Dashboard**
-![sperstore dash](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/e322b976-a64d-4963-a9ff-1fb7f7f7c627)
+![sperstore dash](https://github.com/onkar157/PowerBi_Dashboards/assets/98203821/e322b976-a64d-4963-a9ff-1fb7f7f7c627)<br><br><br><br><br><br>
+
 
 
 
